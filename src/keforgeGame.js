@@ -17,6 +17,7 @@ const setBackgroundImg = {
 const height = {
     height: '50px'
 }
+
 const center = {
     width: '400px',
     margin: '0 auto',
