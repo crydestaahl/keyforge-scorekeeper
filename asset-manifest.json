@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/keyforge-scorekeeper/static/js/main.51511e7d.chunk.js",
+    "main.js.map": "/keyforge-scorekeeper/static/js/main.51511e7d.chunk.js.map",
+    "runtime~main.js": "/keyforge-scorekeeper/static/js/runtime~main.5dd31267.js",
+    "runtime~main.js.map": "/keyforge-scorekeeper/static/js/runtime~main.5dd31267.js.map",
+    "static/css/2.764ccc25.chunk.css": "/keyforge-scorekeeper/static/css/2.764ccc25.chunk.css",
+    "static/js/2.43d0d905.chunk.js": "/keyforge-scorekeeper/static/js/2.43d0d905.chunk.js",
+    "static/js/2.43d0d905.chunk.js.map": "/keyforge-scorekeeper/static/js/2.43d0d905.chunk.js.map",
+    "index.html": "/keyforge-scorekeeper/index.html",
+    "precache-manifest.b7bf962146ff31c2b426904aabb2de01.js": "/keyforge-scorekeeper/precache-manifest.b7bf962146ff31c2b426904aabb2de01.js",
+    "service-worker.js": "/keyforge-scorekeeper/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/keyforge-scorekeeper/static/css/2.764ccc25.chunk.css.map",
+    "static/media/keyforge-bg.jpg": "/keyforge-scorekeeper/static/media/keyforge-bg.01bd39f2.jpg"
+  }
+}
